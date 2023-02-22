@@ -7,4 +7,6 @@ max_teams = 8
 coke = 2.75
 sprite = 2.50
 dr_pepper = 3.25
-
+deposit_paid = true
+early_pay = false
+late_fees = false
